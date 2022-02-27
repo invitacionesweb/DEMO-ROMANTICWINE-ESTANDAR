@@ -345,6 +345,9 @@ footer .contenido{
     align-items: center;
     
 }
+footer img {
+    width: 60px;
+}
 .contenido ul {
     display: flex;
     list-style: none;
@@ -358,9 +361,7 @@ footer .contenido{
 .contenido a:hover {
     color: var(--color-secundario);
 }
-footer img {
-    width: 60px;
-}
+
 
 
 
